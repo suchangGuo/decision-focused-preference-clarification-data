@@ -1,0 +1,10 @@
+parameter,value,role
+Gamma_lower,0.30,initial ambiguity-set lower bound
+Gamma_upper,0.70,initial ambiguity-set upper bound
+w_target,0.04,target width used in threshold calibration
+delta,0.014,indifference threshold
+sigma,0.00637167,logistic response-noise scale
+B_err,0.019,cumulative feedback-error budget
+C_int,0.0094,interaction cost
+max_rounds,5,maximum clarification rounds
+total_interaction_budget,0.047,total interaction-cost budget

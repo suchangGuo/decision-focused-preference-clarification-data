@@ -1,0 +1,3 @@
+boundary_class,boundary_count,percentage,mean_MMR,median_MMR,min_MMR,max_MMR,mean_maximum_cross_regret,cost_dominated,feedback_nonpositive,positive_net_value
+Isolated,50,76.9230769231,0.0080883950,0.0072614047,0.0010666724,0.0277521019,0.0085979093,33,17,0
+Clustered,15,23.0769230769,0.0086272899,0.0085128307,0.0009075275,0.0211998211,0.0107717131,8,7,0

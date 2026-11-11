@@ -1,0 +1,3 @@
+clarification_class,boundary_count,percentage,mean_local_boundary_count,mean_MMR,mean_maximum_cross_regret,mean_best_net_query_value
+Cost-dominated,41,63.0769230769,1.2195121951,0.0052406316,0.0058164873,
+Nonpositive-after-feedback-model,24,36.9230769231,1.2916666667,0.0132901335,0.0147081325,-0.0079527686

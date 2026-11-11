@@ -1,0 +1,3 @@
+stop_category,stop_subtype,weighted_share_percent,equivalent_scenario_mass,mean_stop_round,mean_remaining_width,mean_MMR,mean_best_net_query_value,mean_counterfactual_net_gain
+CostAwareDecisionSufficient,CostAwareDecisionSufficient,78.5462088900,58.9096566624,1.3612764991,0.1844234733,0.0257263144,-0.0049459548,-0.0075162839
+StructuralTermination,FeedbackConflictOrInfeasibleUpdate,21.4537911100,16.0903433311,1.3107851773,0.1603095186,0.0051058134,,

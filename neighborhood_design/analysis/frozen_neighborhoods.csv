@@ -1,0 +1,5 @@
+neighborhood,family,trigger,assignment_change,topology_change,level_change,executable_definition,evidence
+N_L,level_reallocation,VND,none,none,joint,"Keep routes fixed; jointly reassign levels on a small node subset without conserving the sum of levels","421 corrections; 14/15 runs; R/C/RC; 331/421 have unequal upward and downward changes"
+N_T,coupled_topology_level,VND,none,"intra-route segment move/reversal/exchange",joint,"Modify a short segment within one route and jointly reassign levels on affected nodes","82 corrections; 9/15 runs; R/C/RC; pure topology has only 4 corrections"
+N_C,coupled_route_level,VND,"one-node relocation or node/short-segment exchange","best insertion and local reordering",joint,"Change assignment between two routes and jointly reassign levels on both affected routes","324 family corrections; 15/15 runs; R/C/RC"
+N_M,multi_route_reconstruction,stagnation,"cyclic relocation/ejection chain across at least three routes","partial destroy-and-rebuild",joint,"Generate independent reconstruction branches and update current/C2 only after branch acceptance","306 family corrections; 14/15 runs; R/C/RC; median affected routes=4"

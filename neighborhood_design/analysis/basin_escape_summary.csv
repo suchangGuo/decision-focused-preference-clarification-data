@@ -1,0 +1,5 @@
+﻿family,basin_escapes,basin_escape_run_support,basin_escape_type_support,median_stagnation_length,median_escape_objective_improvement,median_escape_distance_reduction
+coupled_route_level,3,3,1,32,0.002289726074442555,1.3333333333333333
+coupled_topology_level,4,2,1,53.0,0.004335363999796282,0.11458333333333365
+level_reallocation,3,3,2,26,0.000924132242661968,0.3333333333333333
+multi_route_reconstruction,1,1,1,33,0.01772970923021877,2.0

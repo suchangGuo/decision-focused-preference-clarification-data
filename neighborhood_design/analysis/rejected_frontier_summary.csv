@@ -1,0 +1,5 @@
+﻿family,retained_support,run_support,type_support,distance_reducing_support,acceptance_barrier_support,median_barrier_distance_reduction
+coupled_route_level,1,1,1,1,1,0.22916666666666663
+cross_route_reassignment,2,1,1,2,2,0.20833333333333331
+level_reallocation,3,2,1,3,3,0.04166666666666663
+route_topology,8,4,3,8,8,0.5

@@ -1,0 +1,3 @@
+stop_category,weighted_share_percent,equivalent_scenario_mass,mean_stop_round,mean_remaining_width,mean_action_regions,mean_MMR,mean_realized_regret,mean_best_expected_action_improvement,mean_best_net_query_value,mean_forced_action_change_probability,mean_counterfactual_gross_regret_reduction,mean_counterfactual_net_gain
+CostAwareDecisionSufficient,78.5462088900,58.9096566624,1.3612764991,0.1844234733,3.6648946015,0.0257263144,0.0039422434,0.0044540452,-0.0049459548,0.2569709820,0.0018837161,-0.0075162839
+StructuralTermination,21.4537911100,16.0903433311,1.3107851773,0.1603095186,2.2336339904,0.0051058134,0.0001666450,,,,,

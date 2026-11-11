@@ -1,0 +1,10 @@
+parameter,value
+outer_iterations_per_request,400
+no_improvement_limit,400
+candidates_per_neighborhood,20
+frontier_stagnation_fraction,0.15
+robust_restart_stagnation_fraction,0.15
+frontier_restart_budget,3
+robust_restart_budget,3
+path_relink_steps,8
+path_relink_candidates_per_step,6

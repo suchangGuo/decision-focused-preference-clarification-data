@@ -1,0 +1,7 @@
+LARGE_15_4_R_FROZEN_ANALYTICAL_CONTRAST
+CONFIG|instance=15-4-R|instance_seed=20261011|spatial=Random|N=15|U=4|L=3|lambda_lower=0.30|lambda_upper=0.70|algorithm=DSPVNS-C2-FR-v1.0|search_configuration=Frozen|fixed_structure_evaluator=Cplex|vns_runs=1|algorithm_seeds=2026110301|iterations_per_request=200|candidates_per_neighborhood=5|frontier_max_count=2|robust_restart_max_count=2|path_relink_steps=8|path_relink_candidates_per_step=6|search_uses_exact_scale=False|search_uses_exact_references=False|exact_chain_reused=True|comparison_only=previous_zero_gap_cplex_chain
+EXACT_BASIS|Tmin=42.0685021803|QatTmin=9.5766380564|Qmax=11.9035565653|TatQmax=55.3329191672|lower_reference=0.2921744539|upper_reference=0.2922062096|robust_objective=0.1563889788
+INSTANCE|id=15-4-R|H=55.340000
+RUN_START|run=1|algorithm_seed=2026110301
+CONTRAST_RESULT|instance=15-4-R|run=1|algorithm_seed=2026110301|objective=0.1831755173|expected_frozen_objective=0.1563889798|objective_difference=2.6786537465E-002|gap_to_exact_pct=17.12814974|time_s=147.478391|T=47.528790|Q=10.733930|C1_size=17958|C2_size=36|C3_size=5|scale_passes=1|scale_Tmin=42.068502|scale_QatTmin=9.576638|scale_Qmax=11.899182|scale_TatQmax=55.256148|frontier_restarts=8|path_relink_attempts=2|path_relink_successes=2|robust_restarts=2|feasible=True
+SUMMARY|instance=15-4-R|runs=1|all_feasible=True|frozen_objectives_reproduced=False|maximum_objective_difference=2.6786537465E-002|passed=False

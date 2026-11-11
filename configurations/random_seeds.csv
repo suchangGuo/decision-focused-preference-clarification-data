@@ -1,0 +1,5 @@
+scope,seed_or_range,role
+algorithm_instances,20261011,instance generation for algorithm-validation experiments
+algorithm_runs,2026110301-2026110305,primary five-run algorithm seeds
+algorithm_runs_14_4_R_additional,2026110306-2026110310,additional five seeds reported for 14-4-R
+mechanism_validation,20261117;20261129;20261213;20261227;20270110,five formal mechanism-validation seeds

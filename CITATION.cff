@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these experimental materials, please cite this dataset and the associated article."
+type: dataset
+title: "Computational data and experimental records for decision-focused preference clarification in multi-UAV disaster reconnaissance"
+version: 1.0.0
+authors:
+  - family-names: "Wang"
+    given-names: "Bochen"
+    affiliation: "School of Economics and Management, Shanghai University of Electric Power, Shanghai 201306, China"
+    email: "websterchenlw@163.com"
+  - family-names: "Guo"
+    given-names: "Yuhan"
+    affiliation: "School of Economics and Management, Shanghai University of Electric Power, Shanghai 201306, China"
+abstract: >
+  This dataset contains the test instances, parameter settings, experimental
+  protocols, raw computational results, processed results, and source data for
+  the tables and figures reported in the associated study.
+keywords:
+  - preference clarification
+  - human-machine collaborative decision making
+  - decision sufficiency
+  - minimax regret
+  - multi-UAV disaster reconnaissance
+  - variable neighborhood search
+license: "CC-BY-4.0"
+repository: "https://github.com/suchangGuo/decision-focused-preference-clarification-data"
+
+# Add date-released, doi, and url after creating the archived release.
+# Add preferred-citation after the associated article receives its final DOI.
